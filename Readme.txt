@@ -11,3 +11,6 @@
 1. 執行npm i 安裝相關套件
 2. 執行npm run dev
 3. 前往http://localhost:3000 即可進到首頁
+
+圖案包需至https://drive.google.com/drive/folders/1Iiv_2shRV0lsXpR8wGTyWkOdz5i85d5q?usp=drive_link下載
+再放置backend\public\
